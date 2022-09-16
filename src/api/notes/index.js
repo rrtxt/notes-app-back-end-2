@@ -1,6 +1,4 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable no-undef */
-const { NotesHandler } = require('./handler');
+const NotesHandler = require('./handler');
 const routes = require('./routes');
 
 module.exports = {
